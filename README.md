@@ -4,8 +4,8 @@
 🍿 Content Creator at [Youtube](https://www.youtube.com/fernandosaraiva) <br>
 🇧🇷 Born in Piauí, Brazil <br>
 
-💬 Ask me about: Front-End, UX Design and Education.
-⚡ Fun fact: Alan Moore and Tolkien.
+💬 Ask me about: Front-End, UX Design and Education. <br>
+⚡ Fun fact: Alan Moore and Tolkien. <br>
 
 ### Find me elsewhere 🌎
 
