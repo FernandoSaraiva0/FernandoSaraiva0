@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Fernando Saraiva! 👋
 
-<!--
-**FernandoFront/FernandoFront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:heart_eyes: Love Design <br>
+🍿 Content Creator at [Youtube](https://www.youtube.com/fernandosaraiva) <br>
+🇧🇷 Born in Piauí, Brazil <br>
 
-Here are some ideas to get you started:
+💬 Ask me about: Front-End, UX Design and Education.
+⚡ Fun fact: Alan Moore and Tolkien.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me elsewhere 🌎
+
+🚀 [Site](https://fernandofront.github.io/links/) <br>
+🐦 [Twitter](https://twitter.com/fernandsaraiva) <br>
+📸 [Instagram](https://instagram.com/fernandosaraivadesign) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/fernandosaraivadesigner/) <br>
+
