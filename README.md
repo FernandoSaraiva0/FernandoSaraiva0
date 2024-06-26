@@ -3,8 +3,8 @@
 :heart_eyes: Love Design <br>
 🇧🇷 Born in Piauí, Brazil <br>
 
-💬 Ask me about: Front-End, UX Design and Education. <br>
-⚡ Fun fact: Alan Moore and Tolkien. <br>
+💬 Ask me about: Computer Network, DevOPS, Linux, Design and Education. <br>
+⚡ Fun fact: Philosophy, Indie Music and Tolkien. <br>
 
 ### Find me elsewhere 🌎
 
